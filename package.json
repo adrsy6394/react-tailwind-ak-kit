@@ -1,0 +1,36 @@
+{
+  "name": "react-tailwind-ak-kit",
+  "version": "1.0.0",
+  "description": "A CLI to scaffold production-ready React apps with Tailwind CSS, Vite, and more.",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "react-tailwind-ak-kit": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "tailwind",
+    "cli",
+    "scaffold",
+    "boilerplate"
+  ],
+  "author": "AK",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "execa": "^5.1.1",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^8.2.6",
+    "ora": "^5.4.1",
+    "figlet": "^1.7.0",
+    "gradient-string": "^2.0.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
