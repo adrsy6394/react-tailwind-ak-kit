@@ -3,6 +3,10 @@
 ⚡ A production-ready React + Tailwind CLI starter
 Build scalable, modern React applications in seconds — not hours.
 
+## 🚀 Create a new project
+npx react-tailwind-ak-kit my-app
+
+
 ✨ Why React Tailwind AK Kit?
 
 Setting up a new React project usually means:
