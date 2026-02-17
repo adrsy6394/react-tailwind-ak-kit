@@ -4,7 +4,7 @@
   "description": "A CLI to scaffold production-ready React apps with Tailwind CSS, Vite, and more.",
   "type": "module",
   "bin": {
-    "react-tailwind-ak-kit": "./index.js"
+    "react-tailwind-ak-kit": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
