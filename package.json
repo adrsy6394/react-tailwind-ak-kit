@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A CLI to scaffold production-ready React apps with Tailwind CSS, Vite, and more.",
   "type": "module",
-  "main": "index.js",
   "bin": {
     "react-tailwind-ak-kit": "./index.js"
   },
@@ -18,8 +17,8 @@
     "scaffold",
     "boilerplate"
   ],
-  "author": "AK",
-  "license": "ISC",
+  "author": "Adarsh Yadav",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^11.1.0",
@@ -31,6 +30,6 @@
     "gradient-string": "^2.0.2"
   },
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=18.0.0"
   }
 }
